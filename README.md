@@ -38,9 +38,9 @@ Just dont forget to create folder named "uploads". Also inside the folder "uploa
 
 #### !! Setup your database on .env file !!
 
-Migrate database
+Import database
 
-> knex migrate:latest
+> Go to mysql import database file on the file with name "tugasakhir.sql"
 
 Run Application
 
