@@ -1,4 +1,4 @@
-# Backend Maspos
+# Backend Pengembangan Dashboard Sistem Informasi Manajemen Inventaris PT. Telkom Witel Magelang (Telkom Magelang)
 
 ## Official Documentation
 
